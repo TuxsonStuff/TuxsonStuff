@@ -40,7 +40,7 @@ If it can be self-hosted, automated, virtualized, or broken at 2 AM, I'm probabl
 - Computer Science fundamentals
 
 ## 🛠️ Things I Like
-
+-Linux
 - Learning computers
 - Reading
 - Gaming
