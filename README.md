@@ -27,15 +27,13 @@ My homelab is basically a perpetual experiment.
 │ 🔐 Self-hosted services              │
 │ 🛠️ "I'll fix it later"               │
 └──────────────────────────────────────┘
-```
+``
 
-If it can be self-hosted, automated, virtualized, or broken at 2 AM, I'm probably interested.
 
-## 🧠 Currently Learning
+ Currently Learning
 
 - Rust
 - Linux & Bash
-- Git
 - Networking
 - Computer Science fundamentals
 
