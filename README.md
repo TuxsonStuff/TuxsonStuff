@@ -3,8 +3,7 @@
 🐧 Linux user • 🏠 Homelabber • 💻 CS newbie
 
 I run a Proxmox homeserver, self-host services, and have been daily driving Linux for over half a year.
-
-## 🐧 About Me
+ 🐧 About Me
 
 - 🐧 Linux is my happy place / angry place
 - 🏠 Running a little homelab and constantly finding new things to self-host
