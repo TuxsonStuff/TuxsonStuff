@@ -29,7 +29,7 @@ I run a Proxmox homeserver, self-host services, and have been daily driving Linu
 
  Currently Learning
 
-- Rust
+- Python
 - Linux & Bash
 - Networking
 - Computer Science fundamentals
