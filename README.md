@@ -2,7 +2,7 @@
 
 🐧 Linux user • 🏠 Homelabber • 💻 CS
 
-I run a Proxmox homeserver, self-host services, and have been daily driving Linux for over half a year.
+I run a homeserver, self-host services, and have been daily driving Linux for over half a year.
  🐧 About Me
 
 - 🐧 Linux is my happy place / angry place
