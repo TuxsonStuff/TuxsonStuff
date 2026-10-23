@@ -1,6 +1,6 @@
 👋 Hey, I'm Tuxson
 
-🐧 Linux user • 🏠 Homelabber • 💻 CS newbie
+🐧 Linux user • 🏠 Homelabber • 💻 CS
 
 I run a Proxmox homeserver, self-host services, and have been daily driving Linux for over half a year.
  🐧 About Me
